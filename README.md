@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**be-lv/Be-lv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!# Hi, I'm [be-lv]!
 
-Here are some ideas to get you started:
+I'm a Python developer focused on building crypto tools, bots, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Crypto Price Tracker](https://github.com/yourusername/python-crypto-projects/tree/main/01_crypto_price_tracker): Real-time crypto price fetcher using CoinGecko API
+- More projects coming soon...
+
+## Skills
+- Python, APIs, Web3
+- Binance Bot Automation
+- Telegram Bot Integration
+- Git, GitHub
+
+## Contact
+- Email: your@email.com
+- Telegram: @yourhandle
