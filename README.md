@@ -15,5 +15,5 @@ I'm a Python developer focused on building crypto tools, bots, and automation.
 - Git, GitHub
 
 ## Contact
-- Email: your@email.com
-- Telegram: @yourhandle
+- Email: yenesomjee12@gmail.com
+  
